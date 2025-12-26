@@ -1,5 +1,6 @@
 # Mental Health of Remote Workers  
-*Excel and Power BI Data Analysis Project*
+*End-to-end Excel and Power BI data analysis project on the mental health of remote workers.
+*
 
 ---
 
